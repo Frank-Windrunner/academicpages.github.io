@@ -18,4 +18,4 @@ Who am I?
 
 Open to talk
 ======
-Feel free to contact me if you are interested about the Chinese mutual fund market, machine learning, quantitative finance.
+Feel free to contact me if you are interested in the Chinese mutual fund market, machine learning, or quantitative finance.
