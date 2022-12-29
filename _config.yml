@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HaoranWu-FinTech"
+  github           : # "HaoranWu-FinTech"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          : "https://www.youtube.com/@haoranwu"
   wikipedia        :
 
 
