@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +18,7 @@ Education
   * Rank: 2/28
   * Scholarships: Postgraduate Recommendation Award, First-Class Graduate Student Scholarship (Two Times)
   * Exchange: Visiting Student in the Department of 5G Technology, Shanghai Institute of Microsystem and Information Technology - Chinese Academy of Sciences, Sep 2016-Jun 2017 
-* B.S. in Engineering in Communication Engineering, GitHub University, Donghua University, Shanghai, China, Sep 2011-Jun 2015
+* B.S. in Engineering in Communication Engineering, Donghua University, Shanghai, China, Sep 2011-Jun 2015
   * Rank: 5/115
   * Scholarships: First-Class Undergraduate Student Scholarship (Four Times)
   * Minor in Finance, Sep 2012-Jun 2015
