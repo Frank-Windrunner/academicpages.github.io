@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "FinTech Researcher"
-    url: /publications/  
+    url: /FinTechResearcher/  
 
   - title: "FinTech Practitioner"
-    url: /teaching/    
+    url: /FinTechPractitioner/    
     
   - title: "Other Backgrounds"
-    url: /cv/
+    url: /OtherBackgrounds/
