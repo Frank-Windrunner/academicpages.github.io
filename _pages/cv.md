@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Candidate in Quantitative Finance at University of Bath School of Management, Bath, UK, Oct 2021-2025 (expected)
+  * Research Interests: Portfolio Optimization with Machine Learning, Mutual Funds
+  * Supervisors: Prof Dimitrios Gounopoulos and Prof David Newton
+  * Funding: Full Scholarship from University Research Studentship Award
+* M.S. in Engineering in Information and Communication Engineering (Postgraduate Recommendation), Donghua University, Shanghai, China, Sep 2015-Mar 2018 
+  * Rank: 2/28
+  * Scholarships: Postgraduate Recommendation Award, First-Class Graduate Student Scholarship (Two Times)
+  * Exchange: Visiting Student in the Department of 5G Technology, Shanghai Institute of Microsystem and Information Technology - Chinese Academy of Sciences, Sep 2016-Jun 2017 
+* B.S. in Engineering in Communication Engineering, GitHub University, Donghua University, Shanghai, China, Sep 2011-Jun 2015
+  * Rank: 5/115
+  * Scholarships: First-Class Undergraduate Student Scholarship (Four Times)
+  * Minor in Finance, Sep 2012-Jun 2015
 
 Work experience
 ======
