@@ -20,8 +20,6 @@ Working Papers
   * Coauthors: Dr Weihao Han, Prof David Newton, Dr Emmanouil Platanakis, Libo Xiao
 * Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence
   * Coauthors: Prof Dimitrios Gounopoulos, Dr Emmanouil Platanakis, Wenke Zhang
-* Certainty in Uncertainty: Dynamic Impacts of Uncertainty on the Financial Integration
-  * Coauthors: Dr Min Yang, Tongbin Xu
 
 Academic Service
 ======
