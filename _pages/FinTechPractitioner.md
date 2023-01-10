@@ -11,7 +11,7 @@ Full-time FinTech Working Experiences in Asset Management
 * Senior Data Manager, Rosefinch Fund Management Co., Ltd., Mar 2021-Aug 2021, Shanghai, China  
   * Establishing Enterprise Data Center for Asset Management
   * Establishing Fund Risk Management System (Project Manager)
-  * Tools: Infamatica
+  * Tools: Infamatica, MicrtoStrategy, Oracle Database
 * Information Engineer, Maxwealth Fund Management Co., Ltd., Mar 2018-Mar 2021, Shanghai, China  
   * Risk Management and Performance Analysis of Portfolios
   * Tools: Tabular, SmartBI, Oracle Database, Sqlsever, Python
@@ -26,4 +26,4 @@ Others
 ======
 * Financial Risk Manager (FRM) Certification
 * Fund Qualification Certificate of China
-* Excellent Trading Records of Chinese Mutual Funds (Success Ratio: 80%) and Cryptocurrencies (Total Return: 800%)
+* Excellent Trading Records of Chinese Mutual Funds (Success Ratio > 80%) and Cryptocurrencies (Total Return > 800%)
