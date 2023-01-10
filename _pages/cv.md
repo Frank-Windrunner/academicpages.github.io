@@ -23,45 +23,28 @@ Education
   * Scholarships: First-Class Undergraduate Student Scholarship (Four Times)
   * Minor in Finance, Sep 2012-Jun 2015
 
-Work experience
+Main Honors and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Outstanding Graduates of Shanghai (top 1% in Shanghai), Mar 2018 
+* First Prize and Huawei Special Prize of National Graduate Students Mathematical Modeling Contest (top 1.44% in China), Nov 2017
+* Postgraduate Recommendation to University of Science and Technology of China (give up), Aug 2014
+* Second Prize of Business Plan Competition of the China Graduate Electronics Design Contest, Jun 2016 
+* Outstanding Undergraduates of DHU (top 5% of undergraduates), Jun 2015 
+  
+Members, Certificates and Skills 
+======
+* Members
+  * Working Member of Europe Union COST Action CA19130 - Fintech and Artificial Intelligence in Finance - Towards a transparent financial industry (FinAI)
+  * Member of the Hedge Fund Association of Peking University
+* Certificates
+  * Financial Risk Manager (FRM) Certification
+  * Fund Qualification Certificate of China
+* Skills
+  * Proficient in Python, MATLAB, and SQL, Elementary with R and Stata, Skilful at Machine Learning Methods
+  * Familiar with the Mutual Fund Industry of China, Excellent Trading Records of Chinese Mutual Funds and Cryptocurrencies
+* Others: Reviewer  for Finance Research Letters
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research in Engineering
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Selected Papers: Wang, J., Du, J., Xu, J. and Wu, H., 2017. Harmonious coexistence solution between stand‐alone LTE and WiFi in unlicensed band. Transactions on Emerging Telecommunications Technologies, 28(9), p.e3155.
+* Patents: CAO YONGSHENG, ZHAO CAIPING, WU HAORAN, LI DEMIN. Self-service ticket buying and stop reporting system for bus. 2015.12.29, China, Patent Number: ZL 2015 1 1015999.8; CAO YONGSHENG, LI DEMIN, WU HAORAN, QU YUNHAO. A visual inspection and reminder device. 2015.12.23, China, Patent Number: ZL 2015 1 0979551.1
