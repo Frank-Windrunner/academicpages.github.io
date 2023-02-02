@@ -13,9 +13,6 @@ Working Papers
   * Target Journal: Management Science
   * Conference Attendance: 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022
   * Award: Research Excellence Award - Financial Investment Talent Development Fund awarded by CFAM
-* Tech for FinTech: Diversify Asset Allocation with Crypto Assets by Uncertainty Mitigation Techniques
-  * Coauthors: Dr Weihao Han, Libo Xiao, Wenke Zhang
-  * Under Review in European Journal of Finance
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a>
   * Coauthors: Dr Weihao Han, Prof David Newton, Dr Emmanouil Platanakis, Libo Xiao
 * Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence
