@@ -35,6 +35,7 @@ Members, Certificates and Skills
 ======
 * Members
   * Working Member of Europe Union COST Action CA19130 - Fintech and Artificial Intelligence in Finance - Towards a transparent financial industry (FinAI)
+  * Student Member of Financial Management Association
   * Member of the Hedge Fund Association of Peking University
 * Certificates
   * Financial Risk Manager (FRM) Certification
