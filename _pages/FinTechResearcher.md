@@ -15,7 +15,7 @@ Working Papers
   * Award: Research Excellence Award - Financial Investment Talent Development Fund awarded by CFAM
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a>
   * Coauthors: Dr Weihao Han, Prof David Newton, Dr Emmanouil Platanakis, Libo Xiao
-* Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a>
   * Coauthors: Prof Dimitrios Gounopoulos, Dr Emmanouil Platanakis, Wenke Zhang
 
 Academic Service
