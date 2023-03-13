@@ -6,18 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers
+Working Papers (pdf upon request)
 ======
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229499" target="_blank">When Bayes-Stein Meets Machine Learning: A Generalized Approach for Portfolio Optimization</a>
-  * Coauthors: Prof Dimitrios Gounopoulos, Dr Emmanouil Platanakis, Dr Gerry Tsoukalas
-  * Target Journal: Management Science
+* When Bayes-Stein Meets Machine Learning: A Generalized Approach for Portfolio Optimization (Chapter 1)
   * Conference Attendance: 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022
   * Award: Research Excellence Award - Financial Investment Talent Development Fund awarded by CFAM
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a>
-  * Coauthors: Dr Weihao Han, Prof David Newton, Dr Emmanouil Platanakis, Libo Xiao
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a>
-  * Coauthors: Prof Dimitrios Gounopoulos, Dr Emmanouil Platanakis, Wenke Zhang
-
+* To Be or Not to Be: Self-Labeling Matters in Sustainable Investing? (Chapter 2)
+* The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There? (Out of PhD)
+* Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence (Out of PhD)
 Academic Service
 ======
 * Reviewer for Finance Research Letters
