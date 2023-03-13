@@ -14,6 +14,7 @@ Working Papers (pdf upon request)
 * To Be or Not to Be: Self-Labeling Matters in Sustainable Investing? (Chapter 2)
 * The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There? (Out of PhD)
 * Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence (Out of PhD)
+
 Academic Service
 ======
 * Reviewer for Finance Research Letters
