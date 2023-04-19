@@ -13,8 +13,9 @@ Working Papers
   * Award: Research Excellence Award - Financial Investment Talent Development Fund awarded by CFAM
 * To Be or Not to Be: Self-Labeling Matters in Sustainable Investing? (Chapter 2, pdf upon request)
 * Another two projects about sustainable investing with mutual funds (Chapter 3, details upon request)
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (Out of my PhD)
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a> (Out of my PhD)
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a>
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a>
+* Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (pdf upon request)
 
 Academic Service
 ======
@@ -23,9 +24,9 @@ Academic Service
   
 Teaching or Sharing Experiences 
 ======
-* Providing Training To Staff and Doctoral Students at the University of Bath School of Management
+* Providing Coding and Database Training To Staff and Doctoral Students at the University of Bath School of Management
   * <a href="https://www.youtube.com/watch?v=5w0DTszME64" target="_blank">Eikon data API with Python</a>
 * Part-time Lecture in Finance in FirstPlus Education
   * Courses: Econometrics and Quantitative Finance, Financial Risk Management
   * Master Dissertation Tutoring
-* Research Rocket Session Presentation at the University of Bath School of Management 
+* Research Rocket Session Presentation, PhD Student Focus Group at the University of Bath School of Management 
