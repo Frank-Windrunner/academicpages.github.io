@@ -9,9 +9,10 @@ author_profile: true
 Working Papers 
 ======
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229499" target="_blank">When Bayes-Stein Meets Machine Learning: A Generalized Approach for Portfolio Optimization</a> (Chapter 1)
-  * Conference Attendance: 2023 FMA European Conference, EFMA 2023 conference, 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022, the 3rd Welsh Postgraduate Research Conference
+  * My Conference Attendance: 2023 FMA European Conference, EFMA 2023 conference, 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022
   * Award: Research Excellence Award ($1000) - Financial Investment Talent Development Fund awarded by CFAM
 * To Be or Not to Be: Self-Labeling Matters in Fund Sustainable Investing? (Chapter 2, pdf upon request)
+  * My Conference Attendance: the 3rd Welsh Postgraduate Research Conference, the South West Doctoral Training Partnership Summer School
 * Another two projects about sustainable investing with mutual funds (Chapter 3, details upon request)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a>
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a>
