@@ -28,14 +28,14 @@ Main Honors and Awards
 * Outstanding Graduates of Shanghai (top 1% in Shanghai), Mar 2018 
 * First Prize and Huawei Special Prize of National Graduate Students Mathematical Modeling Contest (top 1.44% in China), Nov 2017
 * Postgraduate Recommendation to University of Science and Technology of China (give up), Aug 2014
-* Second Prize of Business Plan Competition of the China Graduate Electronics Design Contest, Jun 2016 
+* Second Prize in Business Plan Competition of the China Graduate Electronics Design Contest, Jun 2016 
 * Outstanding Undergraduates of DHU (top 5% of undergraduates), Jun 2015 
   
 Members, Certificates and Skills 
 ======
 * Members
   * Working Member of Europe Union COST Action CA19130 - Fintech and Artificial Intelligence in Finance - Towards a transparent financial industry (FinAI)
-  * Student Member of Financial Management Association
+  * Student Member of Financial Management Association, AFA Student Membership, BAFA Student Membership
   * Member of the Hedge Fund Association of Peking University
 * Certificates
   * Financial Risk Manager (FRM) Certification
@@ -48,4 +48,4 @@ Members, Certificates and Skills
 Research in Engineering
 ======
 * Selected Papers: Wang, J., Du, J., Xu, J. and Wu, H., 2017. Harmonious coexistence solution between stand‐alone LTE and WiFi in unlicensed band. Transactions on Emerging Telecommunications Technologies, 28(9), p.e3155.
-* Patents: CAO YONGSHENG, ZHAO CAIPING, WU HAORAN, LI DEMIN. Self-service ticket buying and stop reporting system for bus. 2015.12.29, China, Patent Number: ZL 2015 1 1015999.8; CAO YONGSHENG, LI DEMIN, WU HAORAN, QU YUNHAO. A visual inspection and reminder device. 2015.12.23, China, Patent Number: ZL 2015 1 0979551.1
+* Patents: CAO YONGSHENG, ZHAO CAIPING, WU HAORAN, LI DEMIN. Self-service ticket buying and stop reporting system for buses. 2015.12.29, China, Patent Number: ZL 2015 1 1015999.8; CAO YONGSHENG, LI DEMIN, WU HAORAN, QU YUNHAO. A visual inspection and reminder device. 2015.12.23, China, Patent Number: ZL 2015 1 0979551.1
