@@ -17,6 +17,7 @@ Working Papers
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a>
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a>
 * Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (R&R in Journal of International Money and Finance, pdf upon request)
+* Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (Under review in Pacific-Basin Finance Journal, pdf upon request)
 
 Academic Service
 ======
