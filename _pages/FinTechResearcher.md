@@ -21,7 +21,7 @@ Working Papers
 
 Academic Service
 ======
-* Reviewer for Finance Research Letters
+* Reviewer for Annals of Operations Research, Finance Research Letters
 * Working Member of Europe Union COST Action CA19130 - Fintech and Artificial Intelligence in Finance - Towards a transparent financial industry (FinAI)
   
 Teaching or Sharing Experiences 
