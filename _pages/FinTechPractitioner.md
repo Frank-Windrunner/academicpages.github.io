@@ -9,11 +9,10 @@ author_profile: true
 Full-time FinTech Working Experiences in Asset Management
 ======
 * Senior Data Manager, Rosefinch Fund Management Co., Ltd., Mar 2021-Aug 2021, Shanghai, China  
-  * Establishing Enterprise Data Center for Asset Management
-  * Establishing Fund Risk Management System (Project Manager)
+  * Responsible for establishing a centralized enterprise data center for the asset management company, accessible to all internal departments (especially the risk management division), complemented by tailored data applications to enhance departmental operations.
   * Tools: Infamatica, MicrtoStrategy, Oracle Database
 * Information Engineer, Maxwealth Fund Management Co., Ltd., Mar 2018-Mar 2021, Shanghai, China  
-  * Risk Management and Performance Analysis of Portfolios
+  * Specialized in developing and maintaining systems for portfolio risk management and performance attribution analysis.
   * Tools: Tabular, SmartBI, Oracle Database, Sqlsever, Python
 
 Part-time Working Experiences
