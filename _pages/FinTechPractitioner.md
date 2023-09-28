@@ -25,4 +25,4 @@ Others
 ======
 * Financial Risk Manager (FRM) Certification
 * Fund Qualification Certificate of China
-* Excellent Trading Records of Chinese Mutual Funds (Success Ratio > 80%) and Cryptocurrencies (Total Return > 800%)
+* Excellent Trading Records of Chinese Mutual Funds and Cryptocurrencies (Total Return > 800%)
