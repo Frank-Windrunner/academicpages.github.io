@@ -28,7 +28,7 @@ Teaching or Sharing Experiences
 ======
 * Providing Coding and Database Training To Staff and Doctoral Students at the University of Bath School of Management
   * <a href="https://www.youtube.com/watch?v=5w0DTszME64" target="_blank">Eikon data API with Python</a>
-* Part-time Lecture in Finance in FirstPlus Education
+* Part-time Lecturer in Finance in FirstPlus Education
   * Courses: Econometrics and Quantitative Finance, Financial Risk Management
   * Master Dissertation Tutoring
 * Research Rocket Session Presentation, PhD Student Focus Group at the University of Bath School of Management 
