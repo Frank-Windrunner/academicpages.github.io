@@ -41,7 +41,7 @@ Members, Certificates and Skills
   * Financial Risk Manager (FRM) Certification
   * Fund Qualification Certificate of China
 * Skills
-  * Proficient in Python, MATLAB, and SQL, Elementary with R and Stata, Skilful at Machine Learning Methods
+  * Proficient in Python, MATLAB, SQL, and Stata; elementary with R; Skillful at machine learning and deep learning methods and finance large language models (LLMs) like FinBERT; 
   * Familiar with the Mutual Fund Industry of China, Excellent Trading Records of Chinese Mutual Funds and Cryptocurrencies
 * Others: Reviewer  for Finance Research Letters
 
