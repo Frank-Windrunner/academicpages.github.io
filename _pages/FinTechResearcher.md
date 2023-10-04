@@ -9,7 +9,7 @@ author_profile: true
 Working Papers 
 ======
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229499" target="_blank">When Bayes-Stein Meets Machine Learning: A Generalized Approach for Portfolio Optimization</a> (Chapter 1, Under review in Management Science)
-  * My Conference Attendance: EUROFIDAI-ESSEC Paris December Finance Meeting 2023 (scheduled), FinEML Conference 2023 (sheduled), 2023 FMA European Conference, EFMA 2023 conference (the highest evaluation from Session Chair and Program Chairs with the recommendation for publication in the European Financial Management journal), 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022
+  * My Conference Attendance: EUROFIDAI-ESSEC Paris December Finance Meeting 2023 (scheduled), FinEML Conference 2023 (scheduled), 2023 FMA European Conference, EFMA 2023 conference (the highest evaluation from Session Chair and Program Chairs with the recommendation for publication in the European Financial Management journal), 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022
   * Award: Research Excellence Award ($1000) - Financial Investment Talent Development Fund awarded by CFAM
 * Walk or Talk? Evidence from Silent Fund Sustainable Investing (Chapter 2, pdf upon request)
   * My Conference Attendance: the 3rd Welsh Postgraduate Research Conference, the South West Doctoral Training Partnership Summer School, the Jean Monnet Summer School
