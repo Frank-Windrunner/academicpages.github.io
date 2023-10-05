@@ -14,7 +14,7 @@ Working Papers
 * Walk or Talk? Evidence from Silent Fund Sustainable Investing (Chapter 2, pdf upon request)
   * My Conference Attendance: the 3rd Welsh Postgraduate Research Conference, the South West Doctoral Training Partnership Summer School, the Jean Monnet Summer School
 * Another two projects about sustainable investing with mutual funds (Chapter 3, details upon request)
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (Under review in Review of Quantitative Financial Analysis)
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (Under review in Review of Quantitative Finance and Accounting)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage Model with Artificial Intelligence</a>
 * Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (Main investigator, R&R in Journal of International Money and Finance, pdf upon request)
 * Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (Under review in International Review of Financial Analysis, pdf upon request)
