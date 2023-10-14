@@ -24,11 +24,13 @@ Academic Service
 * Reviewer for Annals of Operations Research, International Review of Financial Analysis, Finance Research Letters
 * Working Member of Europe Union COST Action CA19130 - Fintech and Artificial Intelligence in Finance - Towards a transparent financial industry (FinAI)
   
-Teaching or Sharing Experiences 
+Teaching Experiences 
 ======
+* Graduate Teaching Assistant, Sep 2023-Now
+  * Department of Mathematical Sciences, University of Bath, responsible for Data Analysis for Business.
+  * Department of Computer Science, University of Bath, responsible for Databases with Python and SQL.
+* Part-time Lecturer in Finance, Jan 2022-Now
+  * FirstPlus Education and Jaystar Education, responsible for Econometrics and Quantitative Finance, Financial Risk Management, and Master Dissertation and PhD Research Rroposal Tutoring.
 * Providing Coding and Database Training To Staff and Doctoral Students at the University of Bath School of Management
   * <a href="https://www.youtube.com/watch?v=5w0DTszME64" target="_blank">Eikon data API with Python</a>
-* Part-time Lecturer in Finance in FirstPlus Education
-  * Courses: Econometrics and Quantitative Finance, Financial Risk Management
-  * Master Dissertation Tutoring
 * Research Rocket Session Presentation, PhD Student Focus Group at the University of Bath School of Management 
