@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers 
+Publications & Working Papers 
 ======
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229499" target="_blank">When Bayes-Stein Meets Machine Learning: A Generalized Approach for Portfolio Optimization</a> (**Reject&Resubmit** in Management Science)
   * My Conference Attendance: EUROFIDAI-ESSEC Paris December Finance Meeting 2023 (scheduled), Erasmus University Rotterdam FinEML Conference 2023, 2023 FMA European Conference, EFMA 2023 conference, 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022, CDAR Risk Seminar (UC Berkeley, presented by coauthor)
@@ -17,8 +17,8 @@ Working Papers
 * Another two projects about sustainable investing with mutual funds (details upon request)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (Under review in Review of Quantitative Finance and Accounting)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage AI Model</a> (Under review in European Financial Management)
-* Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (Main investigator, **Minor Revision** in Journal of International Money and Finance, pdf upon request)
-* Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (**Major Revision** in International Review of Financial Analysis, pdf upon request)
+* Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (Main investigator and corresponding author, **Accepted** by Journal of International Money and Finance, pdf upon request)
+* Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (**Minor Revision** in International Review of Financial Analysis, pdf upon request)
 * Geopolitical Risk and Trade Credit Provision: Evidence from China (Under review in Journal of International Financial Markets, Institutions & Money, Corresponding author, pdf upon request)
 
 Academic Service
