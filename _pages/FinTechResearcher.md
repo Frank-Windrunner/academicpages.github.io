@@ -13,13 +13,13 @@ Publications & Working Papers
   * Award & Honor: Research Excellence Award ($1000) - Financial Investment Talent Development Fund awarded by CFAM; the highest evaluation from Session Chair and Program Chairs with the recommendation for publication in the European Financial Management journal - EFMA 2023 conference
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602285" target="_blank">Talk vs. Walk: Lessons from Silent Sustainable Investing of Mutual Funds</a> (Under review in Journal of Financial and Quantitative Analysis)
   * My Conference Attendance: the 3rd Welsh Postgraduate Research Conference, the South West Doctoral Training Partnership Summer School, the Jean Monnet Summer School, the Welsh Quarterly Finance Seminar Series (invitation, presented by coauthor) 
-  * Award & Honor: Invitation to the FinReg Blog of Duke Financial Economics Center at Duke University
+  * Award & Honor: Invitation to the FinReg Blog of Duke Financial Economics Center at Duke University; Responsible Investment Research Blog; SSRN’s Top Ten download list in ESG for over ten times.
 * Another two projects about sustainable investing with mutual funds (details upon request)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (Under review in Review of Quantitative Finance and Accounting)
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage AI Model</a> (Under review in European Financial Management)
-* Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (Main investigator and corresponding author, **Accepted** by Journal of International Money and Finance, pdf upon request)
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage AI Model</a> (To be submitted to in European Financial Management)
+* Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (Main investigator and corresponding author, **Forthcoming** in Journal of International Money and Finance, pdf upon request)
 * Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (**Minor Revision** in International Review of Financial Analysis, pdf upon request)
-* Geopolitical Risk and Trade Credit Provision: Evidence from China (Under review in Journal of International Financial Markets, Institutions & Money, Corresponding author, pdf upon request)
+* Geopolitical Risk and Trade Credit Provision: Evidence from China (To be submitted, Corresponding author, pdf upon request)
 
 Academic Service
 ======
