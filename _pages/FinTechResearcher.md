@@ -23,7 +23,7 @@ Publications (one) & Working Papers
 
 Academic Service
 ======
-* Reviewer for Annals of Operations Research, International Review of Financial Analysis, Finance Research Letters
+* Reviewer for Annals of Operations Research, Journal of International Money and Finance, International Review of Financial Analysis, Finance Research Letters
 * Working Member of Europe Union COST Action CA19130 - Fintech and Artificial Intelligence in Finance - Towards a transparent financial industry (FinAI)
   
 Teaching Experiences 
