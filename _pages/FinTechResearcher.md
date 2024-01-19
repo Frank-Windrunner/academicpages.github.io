@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Publications (one) & Working Papers 
+Publications (2 ABS3) & Working Papers 
 ======
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229499" target="_blank">When Bayes-Stein Meets Machine Learning: A Generalized Approach for Portfolio Optimization</a> (**Reject&Resubmit** in Management Science)
   * My Conference Attendance: EUROFIDAI-ESSEC Paris December Finance Meeting 2023 (scheduled), Erasmus University Rotterdam FinEML Conference 2023, 2023 FMA European Conference, EFMA 2023 conference, 2022 Chinese Finance Annual Meeting (CFAM), Cardiff Fintech Conference 2022, CDAR Risk Seminar (UC Berkeley, presented by coauthor)
@@ -15,7 +15,7 @@ Publications (one) & Working Papers
   * My Conference Attendance: the 3rd Welsh Postgraduate Research Conference, the South West Doctoral Training Partnership Summer School, the Jean Monnet Summer School, the Welsh Quarterly Finance Seminar Series (invitation, presented by coauthor) 
   * Award & Honor: Invitation to the FinReg Blog of Duke Financial Economics Center at Duke University; Responsible Investment Research Blog; SSRN’s Top Ten download list in ESG for over ten times.
 * Another two projects about sustainable investing with mutual funds (details upon request)
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (Under review in Review of Quantitative Finance and Accounting)
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319598" target="_blank">The Diversiﬁcation Beneﬁts of Cryptocurrency Factor Portfolios: Are They There?</a> (**Accept** in Review of Quantitative Finance and Accounting)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352477" target="_blank">Time is the Witness: Bank Failure Prediction via a Multi-Stage AI Model</a> (To be submitted to in European Financial Management)
 * Money Never Sleeps: Capital Flows under Global Risk and Uncertainty (Main investigator and corresponding author, **Forthcoming** in Journal of International Money and Finance, pdf upon request)
 * Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (**Minor Revision** in International Review of Financial Analysis, pdf upon request)
