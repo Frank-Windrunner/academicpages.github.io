@@ -9,7 +9,8 @@ author_profile: true
 Publications
 ======
 * Agoraki, M.E.K., Wu, H., Xu, T. and Yang, M., 2024. Money never sleeps: Capital flows under global risk and uncertainty. *Journal of International Money and Finance*, 141, p.103013. 
-* Han, W., Newton, D., Platanakis, E., Wu, H. and Xiao, L., 2024. The diversification benefits of cryptocurrency factor portfolios: Are they there?. *Review of Quantitative Finance and Accounting*, *Forthcoming*. 
+* Han, W., Newton, D., Platanakis, E., Wu, H. and Xiao, L., 2024. The diversification benefits of cryptocurrency factor portfolios: Are they there?. *Review of Quantitative Finance and Accounting*, *Forthcoming*.
+* Wang, X., Wang, M. and Wu, H., 2024. Geopolitical risk and corporate cash holdings in China: Precautionary motive and agency problem perspectives. *International Review of Financial Analysis*, *Forthcoming*.
 
 Working Papers
 ======
@@ -19,7 +20,6 @@ Working Papers
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602285" target="_blank">Talk vs. Walk: Lessons from Silent Sustainable Investing of Mutual Funds</a>
   * Conference: the 3rd Welsh Postgraduate Research Conference, the South West Doctoral Training Partnership Summer School, the Jean Monnet Summer School, the EFiC 2023 Conference,  the Welsh Quarterly Finance Seminar Series (invited), EAA 2024 (scheduled)
   * Award & Honor: Invitation to the FinReg Blog of Duke Financial Economics Center at Duke University; Responsible Investment Research Blog; SSRN’s Top Ten download list in ESG for over ten times.
-* Geopolitical Risk and Corporate Cash Holdings in China: Precautionary Motive and Agency Problem Perspectives (Minor Revision in *International Review of Financial Analysis*)
 * Geopolitical Risk and Trade Credit Provision: Evidence from China (Under Review in *International Journal of Finance & Economics*)
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4696313" target="_blank">Time is the Witness: Bank Failure Prediction via a Multistage AI Model</a> (Under Review in *European Journal of Finance*)
 
