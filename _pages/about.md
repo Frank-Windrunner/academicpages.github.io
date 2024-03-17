@@ -19,4 +19,4 @@ Who Am I?
 
 **Industry Experience**: 4-year Fintech practitioner & Financial Risk Manager in the asset management industry
 
-*It's not about money, about pushing the boundaries.*
+<center>*It's not about money, about pushing the boundaries.*</center>
