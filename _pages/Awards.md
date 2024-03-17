@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /OtherBackgrounds/
+permalink: /Awards/
 author_profile: true
 redirect_from:
   - /resume
