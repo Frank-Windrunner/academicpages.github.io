@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /FinTechPractitioner/
+permalink: /Industry/
 author_profile: true
 ---
 
